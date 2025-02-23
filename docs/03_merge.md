@@ -1,2 +1,2 @@
-# Merge Konflikt A
-Dies ist die Version A der Datei.
+# Merge Konflikt B
+Dies ist die Version B der Datei.
