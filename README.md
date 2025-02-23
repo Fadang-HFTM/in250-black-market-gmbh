@@ -2,7 +2,7 @@
 
 Dieses Repository dokumentiert die Entwicklung und Organisation der Softwareprojekte der Black Market Software GmbH.
 
-![Projektlogo](assets/logo.png)
+![Projektlogo](assets/Logo.png)
 
 ## Über das Projekt
 
