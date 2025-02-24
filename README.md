@@ -24,7 +24,6 @@ die Sicherheit erhöht und die Wartbarkeit des Codes gesteigert werden.
 
 ### Offene Aufgaben
 
-
 - [ ] Repository forken (Zugriffsproblem lösen)
 - [ ] Hauptseite erstellen  
 - [ ] Fehlerbehebung und Tests 
@@ -37,6 +36,12 @@ die Sicherheit erhöht und die Wartbarkeit des Codes gesteigert werden.
 - Markdown
 - GitHub Actions
 - Conventional Commits
+
+## GitHub Pages
+
+Die Projektwebsite ist hier verfügbar:  
+[📄 Black Market Software GmbH](https://Fadang-HFTM.github.io/in250-black-market-gmbh/)
+
 
 ## Kontakt & Feedback
 
